@@ -1,0 +1,28 @@
+*{
+    font
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px
+    ;
+}
+.box{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
