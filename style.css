@@ -1,15 +1,12 @@
 *{
-    font
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
     text-align: center;
     text-transform: capitalize;
 }
 
-p{
-    font-family: 'Times New Roman', Times, serif;
- 
-}
+
 #outer{
     font-size: 25px;
 }
